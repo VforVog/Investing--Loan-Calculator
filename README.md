@@ -1,2 +1,1 @@
-Java
-Calculates the interest rates!
+Java -Calculates the interest rates!
