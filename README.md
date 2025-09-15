@@ -5,4 +5,4 @@ You put the data that matters on you. Interest Rate, Years you will pay, Capital
 
 <br><p align="center"><b>Example:</b></p><br>
 
-![Image Description](Results.jpeg)
+![Image Description](results.jpeg)
